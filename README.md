@@ -21,7 +21,7 @@ With this project, I learned how to:
 
 ## Example Code
 
-What things you need to install the software and how to install them.
+Here is an example og the main function:
 
 ```py
 from flask import Flask, render_template
