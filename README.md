@@ -1,4 +1,4 @@
-# Project Title
+# Templating with Jinja
 
 ## Table of Contents
 
