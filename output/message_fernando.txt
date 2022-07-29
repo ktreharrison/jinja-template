@@ -1,0 +1,8 @@
+Hello Fernando!
+
+I'm happy to inform you that you did very well on today's Python Challenge.
+
+You reached 95 out of 100 points.
+
+See you tomorrow!
+Ken

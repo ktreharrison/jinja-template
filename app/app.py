@@ -1,8 +1,7 @@
 from flask import Flask, render_template
-
 from write_messages import max_score, students, test_name
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder='../templates/')
 
 @app.route('/')
 def home():

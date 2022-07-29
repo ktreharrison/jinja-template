@@ -1,14 +1,15 @@
+import random
+
+from faker import Faker
 from jinja2 import Environment, FileSystemLoader
+
+fake = Faker()
 
 max_score = 100
 test_name = "Python Challenge"
-students = [
-    {"name": "Kenneth", 'score':100},
-    {"name": 'Travis', 'score': 87},
-    {"name": "Eugenio", 'score':99},
-    {'name': 'Jess', 'score': 45},
-    {'name': "David", 'score': 40},
-    ]
+students = [{"name":fake.first_name(), "score": random.randint(0, 100)} for _ in range(25)]
+
+
 # A Jinja environment with FileSystemLoader points to the folder of your templates.
 env = Environment(loader=FileSystemLoader('templates/'))
 template = env.get_template('message.txt')
@@ -21,6 +22,6 @@ for student in students:
     )
     with open(filename, mode='w') as message:
         message.write(content)
-        print(f"... wrote {filename}")
+        # print(f"... wrote {filename}")
         
 print("Template rendering complete!")

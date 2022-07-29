@@ -19,7 +19,7 @@ With this project, I learned how to:
 - Modify variables in Jinja with filters
 - Use macros to add functionality to your front end
 
-## Example Code
+## Example Code <a name = "ExampleCode"></a>
 
 Here is an example og the main function:
 

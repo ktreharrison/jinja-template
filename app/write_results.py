@@ -1,5 +1,4 @@
 from jinja2 import Environment, FileSystemLoader
-
 from write_messages import max_score, students, test_name
 
 env = Environment(loader=FileSystemLoader('templates/'))

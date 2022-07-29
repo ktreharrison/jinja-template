@@ -1,0 +1,8 @@
+Hello William!
+
+I'm sorry to inform you that you did not do do well on today's Python Challenge 
+
+You reached 19 out of 100 points.
+
+See you tomorrow!
+Ken

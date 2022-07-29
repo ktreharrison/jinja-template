@@ -1,0 +1,8 @@
+Hello Riley!
+
+I'm sorry to inform you that you did not do do well on today's Python Challenge 
+
+You reached 43 out of 100 points.
+
+See you tomorrow!
+Ken
