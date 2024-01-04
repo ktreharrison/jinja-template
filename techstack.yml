@@ -1,7 +1,8 @@
 repo_name: ktreharrison/jinja-template
-report_id: fa05b0ea6eac1eb80bb7b370d6f65814
+report_id: 0bca8b39b3d6608140d2f5900cf49500
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:29:07+00:00'
+timestamp: '2024-01-04T14:53:55+00:00'
 requested_by: ktreharrison
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ktreharrison/jinja-template
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -24,6 +26,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ktreharrison/jinja-template
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ktreharrison/jinja-template
   detection_source: Repo Metadata
 - name: Jinja
   description: Full featured template engine for Python
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/ktreharrison/jinja-template/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Ken
   last_updated_on: 2022-07-29 11:11:40.000000000 Z
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/ktreharrison/jinja-template
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -65,6 +71,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ktreharrison/jinja-template/blob/main/output/message_albert.txt
   detection_source: output/message_albert.txt
   last_updated_by: Ken
   last_updated_on: 2022-07-29 11:11:40.000000000 Z
@@ -76,6 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ktreharrison/jinja-template
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -85,6 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/ktreharrison/jinja-template/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Ken
   last_updated_on: 2022-07-29 11:11:40.000000000 Z
@@ -94,6 +103,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ktreharrison/jinja-template/blob/main/output/students_results.html
   detection_source: output/students_results.html
   last_updated_by: Ken
   last_updated_on: 2022-07-29 10:23:18.000000000 Z
@@ -105,6 +115,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ktreharrison/jinja-template/blob/main/output/message_albert.txt
   detection_source: output/message_albert.txt
   last_updated_by: Ken
   last_updated_on: 2022-07-29 11:11:40.000000000 Z
@@ -116,6 +127,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/ktreharrison/jinja-template
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -126,6 +138,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ktreharrison/jinja-template
   detection_source: Repo Metadata
 - name: Faker
   description: Faker is a Python package that generates fake data for you
