@@ -2,11 +2,11 @@ repo_name: ktreharrison/jinja-template
 report_id: 0bca8b39b3d6608140d2f5900cf49500
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:26:29+00:00'
+timestamp: '2024-02-29T18:01:45+00:00'
 requested_by: ktreharrison
 provider: github
 branch: main
-detected_tools_count: 20
+detected_tools_count: 17
 tools:
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -63,18 +63,6 @@ tools:
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
   detection_source_url: https://github.com/ktreharrison/jinja-template
   detection_source: Repo Metadata
-- name: pgvector
-  description: Open-source vector similarity search for Postgres
-  website_url: https://github.com/pgvector/pgvector/
-  open_source: false
-  hosted_saas: false
-  category: Data Stores
-  sub_category: Database Tools
-  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
-  detection_source_url: https://github.com/ktreharrison/jinja-template/blob/main/output/message_albert.txt
-  detection_source: output/message_albert.txt
-  last_updated_by: Ken
-  last_updated_on: 2022-07-29 11:11:40.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -95,28 +83,6 @@ tools:
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
   detection_source_url: https://github.com/ktreharrison/jinja-template/blob/main/requirements.txt
   detection_source: requirements.txt
-  last_updated_by: Ken
-  last_updated_on: 2022-07-29 11:11:40.000000000 Z
-- name: HTML
-  description: Hypertext Markup Language for creating web pages.
-  website_url: http://
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
-  detection_source_url: https://github.com/ktreharrison/jinja-template/blob/main/output/students_results.html
-  detection_source: output/students_results.html
-  last_updated_by: Ken
-  last_updated_on: 2022-07-29 10:23:18.000000000 Z
-- name: LangChain
-  description: Build AI apps with LLMs through composability
-  website_url: https://github.com/hwchase17/langchain
-  open_source: true
-  hosted_saas: false
-  category: Communications
-  sub_category: Large Language Model Tools
-  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
-  detection_source_url: https://github.com/ktreharrison/jinja-template/blob/main/output/message_albert.txt
-  detection_source: output/message_albert.txt
   last_updated_by: Ken
   last_updated_on: 2022-07-29 11:11:40.000000000 Z
 - name: PowerShell
